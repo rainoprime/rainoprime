@@ -10,4 +10,4 @@
 
 [![RainoPrime's github stats](https://github-readme-stats.vercel.app/api?username=rainoprime)](https://github.com/anuraghazra/github-readme-stats)
 
-> *世界之大，永远记住自己的渺小，在任何时候脚步不能停止向前！*
+> *当我在追光 我与光同航！*
